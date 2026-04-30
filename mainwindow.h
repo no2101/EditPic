@@ -13,6 +13,9 @@ namespace Ui {
 class MainWindow;
 }
 
+//2026年5月1日07:20:17
+
+
 class MainWindow : public QMainWindow
 {
     Q_OBJECT

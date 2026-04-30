@@ -68,6 +68,7 @@ void MainWindow::on_pushButton_open_clicked()
     fileDlg = nullptr;
 }
 
+///新增加了一些注释  2026年5月1日
 void MainWindow::on_pushButton_1cold_clicked()
 {
     m_nCrtAlgoID = 1;
