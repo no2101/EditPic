@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug EditPic",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/EditPic.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [
+        {
+          "name": "PATH",
+          "value": "D:/Qt/Qt6.11.0/6.11.0/msvc2022_64/bin;%PATH%"
+        }
+      ],
+      "console": "externalTerminal"
+    }
+  ]
+}
