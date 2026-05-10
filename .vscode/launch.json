@@ -5,7 +5,7 @@
       "name": "Debug EditPic",
       "type": "cppvsdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/debug/EditPic.exe",
+      "program": "${workspaceFolder}/release/EditPic.exe",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
