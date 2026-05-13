@@ -53,5 +53,16 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "terminal.integrated.profiles.windows": {
+    "VS2022 x64 Native Tools": {
+      "path": "cmd.exe",
+      "args": [
+        "/k",
+        "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvarsall.bat",
+        "x64"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "VS2022 x64 Native Tools"
 }
